@@ -1,3 +1,1 @@
-# 光影 Web 备用入口
-
-静态页面由 `800-web` 同步生成，用于在 Cloudflare 域名解析异常时提供备用访问入口。
+# CNLiuBei.github.io
